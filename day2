@@ -1,0 +1,6 @@
+function countHours(year, holidays) {
+  let hours=0;
+  let date=holidays.map(x=>x.concat('/',year));
+  let day
+  return 0;
+}
